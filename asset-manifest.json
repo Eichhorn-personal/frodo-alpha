@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frodo-alpha/static/css/main.5ad3622e.css",
+    "main.js": "/frodo-alpha/static/js/main.3c01dc71.js",
+    "static/media/frodo.png": "/frodo-alpha/static/media/frodo.1db75513d000b3c238e7.png",
+    "index.html": "/frodo-alpha/index.html",
+    "main.5ad3622e.css.map": "/frodo-alpha/static/css/main.5ad3622e.css.map",
+    "main.3c01dc71.js.map": "/frodo-alpha/static/js/main.3c01dc71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad3622e.css",
+    "static/js/main.3c01dc71.js"
+  ]
+}

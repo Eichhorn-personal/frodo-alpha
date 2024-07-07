@@ -1,0 +1,15 @@
+.App {
+    font-family: 'Ubuntu', sans-serif;
+    background: #000000;
+    height: 100vh;
+    width: 100vw;
+}
+
+footer {
+    position: fixed;
+    width: 100vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    bottom: 0;
+    
+}
